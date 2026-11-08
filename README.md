@@ -42,3 +42,12 @@ Atuo na transformação de requisitos complexos em códigos de alta performance,
   GitHub  |
   VS Code
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Snake" />
+</div>
+
