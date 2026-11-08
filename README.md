@@ -25,15 +25,15 @@ Estudo **Análise e Desenvolvimento de Sistemas (ADS)** e aplico conceitos de En
 
 ---
 
-### 🛠️ Minha Stack Técnica
+### 🛠️ Minha Stack Técnico
 
-<div align="left">
+<p align="left">
   <img src="https://shields.io" alt="C" />
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="VS Code" />
-</div>
+</p>
 
 ---
 
@@ -47,8 +47,7 @@ Estudo **Análise e Desenvolvimento de Sistemas (ADS)** e aplico conceitos de En
 ---
 
 ### 🐍 Jogo da Cobrinha (Contribuições)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
+</p>
