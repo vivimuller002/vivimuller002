@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+###   *Sobre Mim*
 
 Focada no desenvolvimento de soluções lógicas de alto impacto, com ênfase na construção de arquiteturas backend eficientes, limpas e escaláveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, onde aplico conceitos fundamentais de Engenharia de Software, estruturas de dados e boas práticas de desenvolvimento em projetos acadêmicos e pessoais.
 
