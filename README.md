@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou a Vivian Müller 👋</h1>
-  <p><strong>Desenvolvedora Backend | Engenharia de Software | ADS</strong></p>
+  <p><strong>Análise e Desenvolvimento de Sistemas (ADS) | Engenharia de Software | Linguagem C | Python | Modelagem de Dados | Desenvolvedora Backend</strong></p>
 
   <p>
     <a href="https://linkedin.com" target="_blank">
@@ -25,7 +25,7 @@ Estudo **Análise e Desenvolvimento de Sistemas (ADS)** e aplico conceitos de En
 
 ---
 
-### 🛠️ Minha Stack Técnico
+### 🛠️ Minha Stack Técnica
 
 <p align="left">
   <img src="https://shields.io" alt="C" />
@@ -40,14 +40,6 @@ Estudo **Análise e Desenvolvimento de Sistemas (ADS)** e aplico conceitos de En
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas da Vivi" height="180" />
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180" />
   <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="180" />
-</p>
-
----
-
-### 🐍 Jogo da Cobrinha (Contribuições)
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="github contribution grid snake animation" />
 </p>
