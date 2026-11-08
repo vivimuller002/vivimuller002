@@ -3,13 +3,9 @@
   <p><strong>Análise e Desenvolvimento de Sistemas (ADS) | Engenharia de Software | Linguagem C | Python | Modelagem de Dados | Desenvolvedora Backend</strong></p>
 
   <p>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn">
-    </a>
-    <a href="mailto:seu-email@provedor.com">
-      <img src="https://shields.io" alt="Email">
-    </a>
-  </p>
+    [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/vivian-muller-582239315)
+   
+   </p>
 </div>
 
 ---
