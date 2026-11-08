@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Sou apaixonada por transformar lógica e algoritmos em soluções de backend eficientes, seguras e escaláveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, onde aplico conceitos fundamentais de Engenharia de Software, estruturas de dados e boas práticas de desenvolvimento em projetos acadêmicos e pessoais.
 
@@ -21,7 +21,7 @@ Meu foco principal está na arquitetura do lado do servidor e na modelagem estru
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 **Linguagens & Frameworks**
 <p align="left">
