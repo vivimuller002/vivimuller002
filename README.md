@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou a Vivian Müller 👋</h1>
+  <h1>Olá, me chamo Vivian Müller 👋</h1>
   <p><strong>Análise e Desenvolvimento de Sistemas (ADS) | Engenharia de Software | Linguagem C | Python | Modelagem de Dados | Desenvolvedora Backend</strong></p>
 
   <p>
@@ -40,5 +40,6 @@ Estudo **Análise e Desenvolvimento de Sistemas (ADS)** e aplico conceitos de En
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://vercel.app" alt="Estatísticas da Vivi" height="180" />
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="180" />
 </p>
