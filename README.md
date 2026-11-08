@@ -3,7 +3,9 @@
   <p><strong>Análise e Desenvolvimento de Sistemas (ADS) | Engenharia de Software | Linguagem C | Python | Modelagem de Dados | Desenvolvedora Backend</strong></p>
 
   www.linkedin.com/in/vivian-muller-582239315
-    
+
+  ![Jogo da Cobrinha](https://githubusercontent.com)
+  
   
 </div>
 
@@ -44,13 +46,3 @@ Atuo na transformação de requisitos complexos em códigos de alta performance,
 </p>
 
 ---
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Snake" src="https://githubusercontent.com">
-</picture>
