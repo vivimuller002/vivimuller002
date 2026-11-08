@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou a Vivian Müller 👋</h1>
-  <p><strong>Desenvedora Backend | Engenharia de Software | ADS</strong></p>
+  <p><strong>Desenvolvedora Backend | Engenharia de Software | ADS</strong></p>
 
   <p>
     <a href="https://linkedin.com" target="_blank">
