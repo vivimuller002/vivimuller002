@@ -9,15 +9,16 @@
 
 ---
 
-###  Sobre Mim
+### 🚀 Sobre Mim
 
-Sou apaixonada por transformar lógica e algoritmos em soluções de backend eficientes, seguras e escaláveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, onde aplico conceitos fundamentais de Engenharia de Software, estruturas de dados e boas práticas de desenvolvimento em projetos acadêmicos e pessoais.
+Focada no desenvolvimento de soluções lógicas de alto impacto, com ênfase na construção de arquiteturas backend eficientes, limpas e escaláveis. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, onde aplico conceitos fundamentais de Engenharia de Software, estruturas de dados e boas práticas de desenvolvimento em projetos acadêmicos e pessoais.
 
-Meu foco principal está na arquitetura do lado do servidor e na modelagem estruturada de dados, buscando sempre construir sistemas limpos e de alto desempenho.
+Atuo na transformação de requisitos complexos em códigos de alta performance, aplicando engenharia do lado do servidor e modelagem estruturada de dados para entregar sistemas robustos.
 
 - 📐 **Foco Técnico:** Engenharia de Software, Linguagem C, Python e Modelagem de Dados (DER).
 - 💻 **Objetivo:** Criar arquiteturas backend performáticas, limpas e escaláveis.
-- 📚 **Aprendizado:** Sempre expandindo conhecimentos em desenvolvimento de sistemas, lógica avançada e novas ferramentas backend.
+- 📚 **Aprendizado:** Sempre expandindo conhecimentos em arquitetura de sistemas, lógica avançada e novas ferramentas backend.
+
 
 ---
 
