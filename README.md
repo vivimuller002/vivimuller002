@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, me chamo Vivian Müller 👋</h1>
 
-  ADS | Desenvolvedora Backend | Engenharia de Software | Linguagem C | Python | Modelagem de Dados
+
 
 https://www.linkedin.com/in/vivian-muller-582239315
 
