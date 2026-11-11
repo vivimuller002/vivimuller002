@@ -15,10 +15,10 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ https://github.com/vivimuller002/vivimuller002/blob/main/.github/workflows/snake.yml }}
+          github_user_name: vivimuller002
           outputs: |
-            dist/https://github.com/vivimuller002/vivimuller002/blob/main/.github/workflows/snake.yml
-            dist/https://github.com/vivimuller002/vivimuller002/blob/main/.github/workflows/snake.yml?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake SVG to Github Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
