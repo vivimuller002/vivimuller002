@@ -6,22 +6,6 @@
 https://www.linkedin.com/in/vivian-muller-582239315
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://githubusercontent.com"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://githubusercontent.com"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://githubusercontent.com"
-  />
-</picture>
-
-
 
     <p><strong>Análise e Desenvolvimento de Sistemas (ADS) | Engenharia de Software | Linguagem C | Python | Modelagem de Dados | Desenvolvedora Backend</strong></p>
   
